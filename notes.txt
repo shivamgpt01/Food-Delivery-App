@@ -1,0 +1,7 @@
+CHAPTER 1: Inception
+
+    Hello World in JS vs React
+    Use of CDNs, React Core Library, React Dom Library
+    React.createElement, ReactDOM.createRoot, root.render()
+    Nested structures in React using React.create Element and Need for jsx
+    
