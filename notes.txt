@@ -5,3 +5,14 @@ CHAPTER 1: Inception
     React.createElement, ReactDOM.createRoot, root.render()
     Nested structures in React using React.create Element and Need for jsx
     
+CHAPTER 2 : Igniting our app
+    Setting up git
+    Setting up project without create react app
+    About Parcel (bundler) and webpack (transpiler)
+    Caret vs Tilda, package.json, package-lock.json, node modules, gitignore
+    Module Scripts
+    
+CHAPTER 3 : Laying the foundation
+    Intro to jsx
+    React Elements
+    React Components - Functional Components, Class Based Components
