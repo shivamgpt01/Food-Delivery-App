@@ -1,0 +1,33 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "browserslist": [
+    "last 2 chrome version",
+    "last 2 firefox version"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamgpt01/Food-Delivery-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamgpt01/Food-Delivery-App/issues"
+  },
+  "homepage": "https://github.com/shivamgpt01/Food-Delivery-App#readme"
+}
