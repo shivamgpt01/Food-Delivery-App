@@ -1,17 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-//Component Composition - Rendering one component inside another
+//Rendering react element inside component
 const prize = 1000;
-const TitleComponent = () => {
-  return <h2>Greetings from React functional component</h2>;
-};
+const title = <h2>Greetings from React Element</h2>; //React Element - JS object
 
 const HeadingComponent = () => {
   return (
     <div>
       <h1>Namaste React</h1>
-      <TitleComponent />
+      {title}
       <h3>You have won a prize of {prize} dollars!!!</h3>
     </div>
   );

@@ -16,3 +16,4 @@ CHAPTER 3 : Laying the foundation
     React Elements
     React Components - Functional Components, Class Based Components
     Component Composition : Rendering one component inside another
+    Rendering React Element inside React Component
