@@ -1,18 +1,21 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-//React Element
-const jsxHeading = <h1 id="heading">Namaste React</h1>;
-const multiLineJSX = (
-  <div>
-    <h1 className="Heading">NAMASTE REACT!!!</h1>
-  </div>
-);
-const root = ReactDOM.createRoot(document.getElementById("root")); //Returns a JS object
-root.render(multiLineJSX); //creates the html tag out of JS object and place it inside root element
-
-//React Functional Components
-const HeadingComponent = () => {
-  return <h1>Functional Component</h1>;
+//Component Composition - Rendering one component inside another
+const prize = 1000;
+const TitleComponent = () => {
+  return <h2>Greetings from React functional component</h2>;
 };
+
+const HeadingComponent = () => {
+  return (
+    <div>
+      <h1>Namaste React</h1>
+      <TitleComponent />
+      <h3>You have won a prize of {prize} dollars!!!</h3>
+    </div>
+  );
+};
+
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<HeadingComponent />);

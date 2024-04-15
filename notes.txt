@@ -1,5 +1,4 @@
 CHAPTER 1: Inception
-
     Hello World in JS vs React
     Use of CDNs, React Core Library, React Dom Library
     React.createElement, ReactDOM.createRoot, root.render()
@@ -16,3 +15,4 @@ CHAPTER 3 : Laying the foundation
     Intro to jsx
     React Elements
     React Components - Functional Components, Class Based Components
+    Component Composition : Rendering one component inside another
