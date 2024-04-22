@@ -18,4 +18,10 @@ CHAPTER 3 : Laying the foundation
     Component Composition : Rendering one component inside another
     Rendering React Element inside React Component
     Rendering React Element inside another React Element
+    Rendering React Component inside React Element
+    React Fragment
     
+CHAPTER 4 : Talk is Cheap, Show me the Code!
+    Props
+    Config Driven UI
+    Key Prop
