@@ -25,3 +25,20 @@ CHAPTER 4 : Talk is Cheap, Show me the Code!
     Props
     Config Driven UI
     Key Prop
+    
+CHAPTER 5 : Let's Get Hooked
+    React File structure
+    Named vs Default import/export
+    Coupling of UI & Data Layer 
+    State Variables
+    Hooks
+    useState Hook
+    
+CHAPTER 6 : Exploring the World
+    Microservices vs Monolithic architecture
+    useEffect Hook
+    Live Data from Swiggy API
+    CORS
+    Conditional Rendering
+    Shimmer UI
+    

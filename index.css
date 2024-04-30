@@ -47,3 +47,34 @@
 .res-logo {
   width: 100%;
 }
+
+.login {
+  padding: 0 20;
+  cursor: pointer;
+}
+
+.shimmer-res-card {
+  margin: 5px;
+  padding: 5px;
+  width: 200px;
+  height: 300px;
+}
+.shimmer {
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    rgba(255, 255, 255, 0.3) 50%,
+    transparent 100%
+  );
+  background-size: 800px 100%;
+  animation: shimmer 1s infinite linear;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -800px 0;
+  }
+  100% {
+    background-position: 800px 0;
+  }
+}
