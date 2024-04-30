@@ -42,3 +42,15 @@ CHAPTER 6 : Exploring the World
     Conditional Rendering
     Shimmer UI
     
+CHAPTER 7 : Finding the Path (Client Side Routing)
+    Routing
+    router config
+    react-router-dom
+    createBrowserRouter
+    RouterProvider - component
+    useRouteError - hook
+    Creating Child Paths/routes
+    Outlet component
+    Link Component vs Anchor Tag
+    Client Side Routing vs Server Side Routing
+    Dynamic Routing
