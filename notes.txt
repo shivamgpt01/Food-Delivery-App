@@ -71,3 +71,9 @@ CHAPTER 9 : Optimizing our app
     Custom Hooks
     Lazy Loading
     Suspense
+    
+CHAPTER 10 : Jo Dikhta hai, Woh Bikta Hai
+    Ways to add CSS: inline, internal, external
+    Styling using Sass and Scss
+    Styling using external libraries: Styled Components(library for writing css in JS), Tailwind
+    Tailwind Setup

@@ -1,9 +1,6 @@
 const ShimmerRestaurantCard = () => {
   return (
-    <div
-      className="shimmer-res-card shimmer"
-      style={{ backgroundColor: "#f0f0f0" }}
-    >
+    <div className="m-4 p-4 w-[250px] rounded-lg bg-gray-100 hover:bg-gray-200">
       <div className="res-logo shimmer"></div>
       <h3 className="shimmer">Restaurant Name</h3>
       <h4 className="shimmer">Rating</h4>
