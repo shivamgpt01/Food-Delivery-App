@@ -42,7 +42,7 @@ CHAPTER 6 : Exploring the World
     Conditional Rendering
     Shimmer UI
     
-CHAPTER 7 : Finding the Path (Client Side Routing)
+CHAPTER 7 : Finding the Path (Client Side Routing - No Network Calls)
     Routing
     router config
     react-router-dom
@@ -54,3 +54,20 @@ CHAPTER 7 : Finding the Path (Client Side Routing)
     Link Component vs Anchor Tag
     Client Side Routing vs Server Side Routing
     Dynamic Routing
+    
+CHAPTER 8 : Class Based Components
+    Class Based Components vs Functional Components
+    render()
+    Props and State
+    Constructor and super Function
+    Lifecycle Methods
+    Component Lifecycle
+    Render Phase and Commit Phase
+    componentDidMount()
+    componentDidUpdate()
+    componentWillUnmount()
+    
+CHAPTER 9 : Optimizing our app
+    Custom Hooks
+    Lazy Loading
+    Suspense
