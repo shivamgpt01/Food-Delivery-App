@@ -77,3 +77,9 @@ CHAPTER 10 : Jo Dikhta hai, Woh Bikta Hai
     Styling using Sass and Scss
     Styling using external libraries: Styled Components(library for writing css in JS), Tailwind
     Tailwind Setup
+    
+CHAPTER 11 : Data is the new oil
+    Higher Order Components
+    Pure Functions
+    Controlled And Uncontrolled Components
+    Lifting the state up
