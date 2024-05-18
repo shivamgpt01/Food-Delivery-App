@@ -83,3 +83,5 @@ CHAPTER 11 : Data is the new oil
     Pure Functions
     Controlled And Uncontrolled Components
     Lifting the state up
+    Props Drilling 
+    React Context API
