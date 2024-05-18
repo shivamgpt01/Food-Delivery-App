@@ -85,3 +85,21 @@ CHAPTER 11 : Data is the new oil
     Lifting the state up
     Props Drilling 
     React Context API
+    
+CHAPTER 12 : Let's Build Our Store
+    Redux
+    react-redux, Redux Toolkit libraries
+    Redux Store, Slice
+    Dispatch an action, which calls the Reducer function and this reducer function will update the Slice
+    Subscribe to the store using a selector
+    configureStore() by RTK
+    Provider component by react-redux
+    createSlice() by RTK - Takes in 3 inputs 
+        1. Name of the cart slice 
+        2. Initial State: initial values of the slice in the redux store
+        3. Reducers: It is an object. It contains actions and reducer functions.
+                    Reducer functions get access to state and actions as arguments
+                    
+    RTK : configureStore(), createSlice()
+    react-redux: Provider component, useSelector(), useDispatch()
+    
